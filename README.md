@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Zup Innovation](https://www.instagram.com/zupinnovation/)
 
-- 👨‍💻Here´s my website in portuguese [douglasjtds.github.io](douglasjtds.github.io)
+- 👨‍💻Here´s my website in portuguese [douglasjtds.github.io](https://douglasjtds.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
