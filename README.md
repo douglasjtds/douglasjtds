@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Douglas Tertuliano</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Zup Innovation](https://www.instagram.com/zupinnovation/)
+- 🔭 I’m currently working on ClearSale
 
 - 👨‍💻Here´s my website [douglasjtds.github.io](https://douglasjtds.github.io/)
+
+Senior Software Engineer | C# - Node.js - Javascript | Backend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
