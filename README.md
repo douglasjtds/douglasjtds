@@ -5,7 +5,7 @@
 
 - 👨‍💻Here´s my website [douglasjtds.github.io](https://douglasjtds.github.io/)
 
-Senior Software Developer | C# - Node.js - Javascript | Backend
+Software Developer | C# - Node.js - Javascript | Backend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
